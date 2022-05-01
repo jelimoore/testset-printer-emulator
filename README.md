@@ -15,3 +15,7 @@ On your test set, set the printer type to Deskjet (others may work but have no b
 Run the `pcltopng.py` file. When you hit Print on the test set, it will transmit the image to your computer, and when it's done processing, it will automatically open with your default application for viewing images. Images are stored with a simple timestamp appended to the file name.
 
 Tweak the Background and Foreground settings in the heading of the file to change the hue shift. By default, the color correction is set to make the resulting image look like an 8935's monitor. If you would like no color correction, set foreground to #000000 and background to #ffffff, which is the default black and white (essentially setting it to no color correction).
+
+## Example Image
+
+![Image captured from an HP 8935 test set demonstrating the functionality of this application](example.png)
